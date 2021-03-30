@@ -1,5 +1,6 @@
 # Contributors
 
+- [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
@@ -11,6 +12,7 @@
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
 - [Arya Bhosale](https://github.com/AryaArunB)
+- [Kritarth Mehra] (https://github.com/badboyguss)
 - [Ketan Gupta](https://github.com/Mad4Code)
 - [Zhi King](https://github.com/zyj1022)
 - [Segev Shoval](https://github.com/segevitsky)
